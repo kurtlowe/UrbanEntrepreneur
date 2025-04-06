@@ -1,0 +1,14 @@
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\bin\Debug\net8.0\UrbanEntrepreneur.exe
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\bin\Debug\net8.0\UrbanEntrepreneur.deps.json
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\bin\Debug\net8.0\UrbanEntrepreneur.runtimeconfig.json
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\bin\Debug\net8.0\UrbanEntrepreneur.dll
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\bin\Debug\net8.0\UrbanEntrepreneur.pdb
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.AssemblyInfoInputs.cache
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.AssemblyInfo.cs
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.csproj.CoreCompileInputs.cache
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.dll
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\refint\UrbanEntrepreneur.dll
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.pdb
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\UrbanEntrepreneur.genruntimeconfig.cache
+C:\Users\kurtw\source\repos\UrbanEntrepreneur\UrbanEntrepreneur\obj\Debug\net8.0\ref\UrbanEntrepreneur.dll
