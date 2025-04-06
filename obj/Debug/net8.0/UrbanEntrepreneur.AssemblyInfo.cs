@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbanEntrepreneur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23422bdcafd2926b1704fe0aaf18c8908acbed7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbanEntrepreneur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbanEntrepreneur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
