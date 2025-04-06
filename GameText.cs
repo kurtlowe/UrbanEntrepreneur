@@ -29,12 +29,17 @@ namespace UrbanEntrepreneur
         public void CenterText(string weedLeaf)
         {
             int windowWidth = Console.WindowWidth;
-            int textLength = weedLeaf.Length;
+            int textLength = 50;
             int leftPadding = (windowWidth - textLength) / 2;
-
             if (leftPadding < 0) leftPadding = 0; // Avoid negative padding
 
-            Console.WriteLine(new string(' ', leftPadding) + weedLeaf);
+            Console.Write("hi\r\n");
+            Console.WriteLine("hi");
+
+            foreach (var line in weedLeaf.Split("\r\n", StringSplitOptions.None))
+            {
+                Console.WriteLine(new string(' ', leftPadding) + line);
+            }
         }
     }
 }
