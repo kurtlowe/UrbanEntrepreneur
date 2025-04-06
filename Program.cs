@@ -1,9 +1,8 @@
 ﻿using UrbanEntrepreneur;
 
+Console.Clear();
 Console.CursorVisible = false;
 
-var welcome = new GameText();
-welcome.WelcomeMessage();
-
-var playerName = new GameText();
-playerName.PlayerInfoMenu();
+var textGenerator = new GameText();
+textGenerator.WelcomeMessage();
+textGenerator.PlayerInfoMenu();
