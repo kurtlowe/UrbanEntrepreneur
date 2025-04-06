@@ -14,23 +14,27 @@ var y = 1;
 while (true)
 {
     map.DisplayMap(x, y);
-    var key = Console.ReadKey(true).Key;
-    switch (key)
+    if (Console.KeyAvailable)
     {
-        case ConsoleKey.W:
-            if (map.CheckMap(x, y - 1)) y--;
-            break;
-        case ConsoleKey.S:
-            if (map.CheckMap(x, y + 1)) y++;
-            break;
-        case ConsoleKey.A:
-            if (map.CheckMap(x - 1, y)) x--;
-            break;
-        case ConsoleKey.D:
-            if (map.CheckMap(x + 1, y)) x++;
-            break;
-        case ConsoleKey.Escape:
-            Environment.Exit(0);
-            break;
+        var key = Console.ReadKey(true).Key;
+        switch (key)
+        {
+            case ConsoleKey.W:
+                if (map.CheckMap(x, y - 1)) y--;
+                break;
+            case ConsoleKey.S:
+                if (map.CheckMap(x, y + 1)) y++;
+                break;
+            case ConsoleKey.A:
+                if (map.CheckMap(x - 1, y)) x--;
+                break;
+            case ConsoleKey.D:
+                if (map.CheckMap(x + 1, y)) x++;
+                break;
+            case ConsoleKey.Escape:
+                Environment.Exit(0);
+                break;
+        }
+        while (Console.KeyAvailable) { Console.ReadKey(true); }
     }
 }
